@@ -1,6 +1,9 @@
+constants
 jupyterlab
 matplotlib
 numpy
 pandas
 pillow
+torch
+torchvision
 tqdm
